@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @trisnamahesa
-- 👀 I’m interested in physics and tech
-- 🌱 I’m currently learning technology and physics
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ->trisnamahesa@gmail.com
+Hi, I’m Trisna 👋  
+I create content about science and technology, and I love building projects that combine AI, data, and education.  
 
-<!---
-trisnamahesa/trisnamahesa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🔭 Working on research about science literacy & critical thinking  
+- 🌱 Learning more about AI tutoring and educational tech  
+- ⚡ Fun fact: I enjoy turning complex ideas into simple, engaging explanations  
